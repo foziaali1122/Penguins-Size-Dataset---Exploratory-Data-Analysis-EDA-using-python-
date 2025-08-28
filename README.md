@@ -1,0 +1,2 @@
+# Penguins-Size-Dataset---Exploratory-Data-Analysis-EDA-using-python-
+This project explores the Palmer Penguins dataset with 344 samples of Adelie, Gentoo, and Chinstrap penguins. Using Python (Pandas, Matplotlib, Seaborn), I performed data cleaning, handled missing values, and conducted EDA. Visualizations highlight species differences in beak size, flipper length, and body mass for research &amp; ML tasks.
