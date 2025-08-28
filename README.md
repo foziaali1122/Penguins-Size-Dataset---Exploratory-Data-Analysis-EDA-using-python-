@@ -47,5 +47,7 @@ It contains penguin measurements collected from three Antarctic islands: **Bisco
 
 ---
 
-👩‍💻 **Author:** Fozia Roshan Ali    
-📌 Kaggle File: `/content/penguins_size.csv`
+## 🔗 Project Notebook  
+
+- Google Colab:[Open on colab](https://colab.research.google.com/drive/1HnQaEh48zYXc5Tig12An3WnzU5Zp-9q3)  
+  
